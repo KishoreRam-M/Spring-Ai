@@ -2,9 +2,7 @@
 
 ## 🧠 SPRING AI MASTER ROADMAP (Beginner → Advanced)
 
-> ⚙️ Assumes you already know Java, Spring Boot, and basic REST API development.
 
----
 
 ## ✅ STAGE 1: **Spring AI Basics (Beginner)**
 
